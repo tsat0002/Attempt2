@@ -5,3 +5,6 @@ date: "2023-05-20"
 output: html_document
 ---
 
+In this project I will be showing you how to conduct git commands and how they reflect within RStudio, terminal and Git Kraken.
+
+I hope this will be easy to understand!
